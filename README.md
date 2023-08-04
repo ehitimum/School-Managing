@@ -1,6 +1,6 @@
 # School-Managing Spring Boot Project
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.2-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 
 School-Managing is a Spring Boot project designed to provide a comprehensive solution for managing school-related tasks and activities. It aims to simplify the management process for schools, including student information, course registration, grading, and more.
